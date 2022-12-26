@@ -64,8 +64,7 @@ section{/*Código para almentar o espaçamento de todos os elementos da TAG*/
     padding-top: 25vh;/*vh vai ser utilizado quando quiser usar um espaçamento maior já que o mesmo utiliza da procentagem da altura dá pagina, neste caso está com 25% da altura da página, diferente de pixels que é melhor ser usado como algo mais preciso*/
     padding-bottom: 25vh;
     line-height: 2em;/*Código pra inserir um espaçamento entre as linhas neste caso é um espaçamento duplo por ser "2em"*/
-    padding-left: 40px;
-    font-size: 2em;
+    padding-left: 40px; 
 }
 
 section.branco{
