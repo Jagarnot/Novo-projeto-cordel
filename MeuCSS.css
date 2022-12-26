@@ -97,7 +97,7 @@ section.img2 > p{
 }
 section.img > p{
     background-color: rgba(0, 0, 0, 0.37);
-    display: inline-block;
+    display: inline-block;/*Código que trava a caixa no tamanho do conteudo neste caso especifico*/
     padding: 27px;
     margin: 33px;
     
