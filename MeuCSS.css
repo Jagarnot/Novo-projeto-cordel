@@ -60,7 +60,7 @@ section{/*Código para almentar o espaçamento de todos os elementos da TAG*/
     padding-bottom: 25vh;
     line-height: 2em;/*Código pra inserir um espaçamento entre as linhas neste caso é um espaçamento duplo por ser "2em"*/
     padding-left: 40px;
-    font-size: 36px; 
+    font-size: 4vw; 
 }
 
 section.branco{
