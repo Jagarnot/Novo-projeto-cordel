@@ -11,14 +11,15 @@ body{
 }
 
 header > h1{
-    padding: 30px;/*Código para adicionar um espaçamento no titulo principal de 30 pixels*/
+    padding: 19px;/*Código para adicionar um espaçamento no titulo principal de 30 pixels*/
     /*text-transform: uppercase; - Código para deixar tudo maiusculo transformando*/ 
     font-variant: small-caps;/*Código para deixar todas as letras maiusculas mas as primeiras letras ainda maiores assim deixando com o traço das letras maiusculas porem com p tamanho correto desejado*/
     font-size: 3em;
 }
 
 header > h3{
-    padding: 30px;
+    padding: 12px;
+    
     
 }
 
@@ -46,7 +47,6 @@ h1{
     text-align: center;
     color: white;
     background-color: black;
-    
 }
 
 h3{
