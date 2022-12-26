@@ -83,7 +83,7 @@ section.img{
     background-position: center center;
     background-attachment: fixed;
     color: white;
-    padding-left: 268px;
+    padding-left: 100px;
 }
 
 section.img2{
@@ -94,7 +94,7 @@ section.img2{
     background-position: center center;
     background-attachment: fixed;
     color: white;
-    padding-left: 268px;
+    padding-left: 100px;
 }
 section.img2 > p{
     background-color: rgba(0, 0, 0, 0.356);
