@@ -6,15 +6,13 @@
 body{
     background-color: rgb(180, 181, 182);
     background-color: white;
-    
-
 }
 
 header > h1{
     padding: 19px;/*Código para adicionar um espaçamento no titulo principal de 30 pixels*/
     /*text-transform: uppercase; - Código para deixar tudo maiusculo transformando*/ 
     font-variant: small-caps;/*Código para deixar todas as letras maiusculas mas as primeiras letras ainda maiores assim deixando com o traço das letras maiusculas porem com p tamanho correto desejado*/
-    font-size: 3em;
+    font-size: 10vw;
 }
 
 header > h3{
@@ -62,7 +60,7 @@ section{/*Código para almentar o espaçamento de todos os elementos da TAG*/
     padding-bottom: 25vh;
     line-height: 2em;/*Código pra inserir um espaçamento entre as linhas neste caso é um espaçamento duplo por ser "2em"*/
     padding-left: 40px;
-    font-size: 2em; 
+    font-size: 5vw; 
 }
 
 section.branco{
@@ -99,7 +97,7 @@ section.img2 > p{
 }
 section.img > p{
     background-color: rgba(0, 0, 0, 0.37);
-    width:300px ;
+    width:300px;
     padding: 27px;
     margin: 33px;
     
