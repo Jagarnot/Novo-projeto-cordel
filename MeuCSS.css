@@ -67,6 +67,7 @@ section{/*Código para almentar o espaçamento de todos os elementos da TAG*/
     line-height: 2em;/*Código pra inserir um espaçamento entre as linhas neste caso é um espaçamento duplo por ser "2em"*/
     padding-left: 40px;/*Código para arrastar o conteudo para direita*/
     font-size: 4vw; /*Código para adapitar a fonte do conteudo para 4% do tamanho total da página*/
+    text-shadow: 1px 1px 1px black;
 }
 
 section.branco{
@@ -84,6 +85,7 @@ section.img{
     background-attachment: fixed;
     color: white;
     padding-left: 100px;
+    
 }
 
 section.img2{
@@ -101,6 +103,7 @@ section.img2 > p{
     display: inline-block;
     padding: 27px;
     margin: 33px;
+    text-shadow: 1px 1px 1px black;
     
 }
 section.img > p{
@@ -109,6 +112,7 @@ section.img > p{
     display: inline-block;/*Código que trava a caixa no tamanho do conteudo neste caso especifico*/
     padding: 27px;
     margin: 33px;
+    text-shadow: 1px 1px 1px rgb(0, 0, 0);
 }
 
 
