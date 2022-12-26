@@ -21,8 +21,10 @@ header > h3{
     
 }
 
-a:hover{/*Código para inserir uma animação nos links para sempre que passar o mouse encima, aparece uma linha para destacar o link*/
+a:hover{/*Código para inserir uma animação nos links para sempre que passar o mouse encima, aparece algo para destacar o link*/
     text-decoration: underline;
+    color: rgb(94, 255, 0);
+    transition-duration: 0.5s;/*Código para inserir um dalay na animação*/
 }
 
 *{/*Código para inserir configurações de ajuste golbais, se aplicam na página inteira*/
@@ -39,6 +41,10 @@ a{
     text-decoration: none;
     color: white;
     font-weight: bolder;
+}
+a.externo::after{
+    content: '\1F517';
+    background-color: rgb(94, 255, 0);
 }
 
 h1{
@@ -99,6 +105,7 @@ section.img2 > p{
 }
 section.img > p{
     background-color: rgba(0, 0, 0, 0.37);
+    color: rgb(252, 252, 252);
     display: inline-block;/*Código que trava a caixa no tamanho do conteudo neste caso especifico*/
     padding: 27px;
     margin: 33px;
