@@ -90,14 +90,14 @@ section.img2{
 }
 section.img2 > p{
     background-color: rgba(0, 0, 0, 0.356);
-    width: 350px;
+    display: inline-block;
     padding: 27px;
     margin: 33px;
     
 }
 section.img > p{
     background-color: rgba(0, 0, 0, 0.37);
-    width:300px;
+    display: inline-block;
     padding: 27px;
     margin: 33px;
     
