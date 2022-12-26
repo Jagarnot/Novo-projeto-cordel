@@ -6,6 +6,7 @@
 body{
     background-color: rgb(180, 181, 182);
     background-color: white;
+
 }
 
 header{
@@ -33,6 +34,7 @@ a:hover{/*Código para inserir uma animação nos links para sempre que passar o
 }
 html, body{
     min-height: 98vh;
+
 }
 
 a{
