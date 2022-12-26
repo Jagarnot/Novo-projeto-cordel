@@ -44,7 +44,7 @@ a{
 }
 a.externo::after{
     content: '\1F517';
-    background-color: rgb(94, 255, 0);
+
 }
 
 h1{
